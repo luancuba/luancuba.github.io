@@ -1,3 +1,1 @@
-document.addEventListener("DOMContentLoaded", function() {
-	alert('teste');
-});
+console.log('This would be the main JS file.');
