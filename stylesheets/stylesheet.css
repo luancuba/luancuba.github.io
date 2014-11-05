@@ -285,7 +285,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121 url(../images/bg.jpg) no-repeat center center;
+  background: #212121 ;
   background-size: 100% 100%;
 }
 
